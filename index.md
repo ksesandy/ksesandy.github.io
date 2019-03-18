@@ -1,7 +1,10 @@
-﻿## Welcome to My Web
+## Welcome to GitHub Pages
 
-我是資工二甲 劉冠論
-### This is the NBA Ranking
+You can use the [editor on GitHub](https://github.com/ksesandy/ksesandy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -25,16 +28,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Paul Geroge
+### Jekyll Themes
 
-My favorite NBA player.
-Position: Shooting Guard and Small Forward ▪ Shoots: Right
-6-9, 220lb (206cm, 99kg)
-Team: Oklahoma City Thunder
-
-Born: May 2, 1990 (Age: 28-320d) in Palmdale, California
-
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ksesandy/ksesandy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-<a href="https://tw.global.nba.com/standings/">PCNET</a>
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
