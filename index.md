@@ -20,11 +20,6 @@ Syntax highlighted code block
 <img src="https://lh3.googleusercontent.com/WuErt_6NWc-erPd5GDvvjBYdv2w4Io_cXsAf7Rz2CyNqlQYN7d1x8Hw6T8BbY8-9ehWGcPRHRlCtBoCL73jZCVhoXtHDsWBnv43g9s0-I_hzvweOQ_agP7yLQW4ngN2Jjgdq1LZoT43iKbmgAXRIvCB-TWA4XJ3VeFjDtYofoKTDQ2H4SDbqOdGEukf1O4s1968ZzlVhDPxJHuc5QgCcHKQjG9939mH8PUQODJZ7PgPBWRU7h3IXvDQLL91rPbOJ50cKV2MlynoaJ2QvVMPDlfBnXwp7i3goYB-gvpGRKhMhOHO_sh9OMP4uraeIUWDVy5x8-ESQs3qCkOMv2-rDUAfK9TNXn75yS3BfuPMjO6ufVtmRBAdk-dbwHKuEt-5IwNM7_Y7Vd2j2gnnRBVjFmYJYFBPVsLmC_B8j_9j86LxFq997wD4x2JRvS4j4QA3XkDmDVNJ-H5d2g41bmmbC6z50qsm0mtSYkUBdcZPEobeCcczjKSG9z0MJhlw2msJxHr0DPNUFVIfcsAS96LgDGTT2hDJPxdh5J2oG4_tSspebBDg-KNBGblQ4N7POvLmx1Ndq8EfNrYA6UsB5rYEYYEQMDKDmeSr5IEOBnybQA0QsMOgCMZxLYPZ8g6fKvynZT0LXyYT9rwGHB4Ua0shqiIcxAmIs5qI=w940-h806-no"width="50%" height="50%">
 
 
-$('.d0818click').click(function() {
-    $('.old').animate({left: '+=10'});
-    $('.new').is(':animated') || $('.new').animate({left: '+=10'});
-});
-
 
 [Link](url) and ![Image](src)
 ```
